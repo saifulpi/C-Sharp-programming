@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="practice-5/practice-5.csproj" Id="a5ebb96b-0e5f-4b56-969e-ee39df8a08a4" />
+  <Project Path="problem-1/problem-1.csproj" Id="5c72ef08-21d5-4ca1-8ad2-e8673aec0cb1" />
+  <Project Path="problem-2/problem-2.csproj" Id="69f08095-31cf-43b0-88d8-3a2d47176015" />
+  <Project Path="problem-3/problem-3.csproj" Id="e829155e-0b00-480f-a4f8-a5b08071cadb" />
+  <Project Path="problem-4/problem-4.csproj" Id="e68fd281-5a11-4cc3-b050-b8dc4bd90a91" />
+  <Project Path="problem-6/problem-6.csproj" Id="c9e36da2-31e1-4b81-84c8-76a8c4fb9137" />
+  <Project Path="problem-7/problem-7.csproj" Id="a03e3393-b446-4fed-80c9-56feb63c8e8b" />
+</Solution>
